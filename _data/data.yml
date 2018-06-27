@@ -4,33 +4,30 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
-    url: 'http://webjeda.com'
+    title: Mario Kozjak Resume
+    url: 'https://mario.kozjak.io'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Mario Kozjak
+    tagline: Backend Developer/DevOps
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: kozjakm1@gmail.com
+    # phone: 012 345 6789
+    website: mario.kozjak.io #do not add http://
+    linkedin: mario-kozjak-a9665b72
+    github: mkozjak
+    twitter: '@mkozjak1'
 
     languages:
         - language:
           idiom: English
+          level: Professional
+        - language:
+          idiom: Croatian
           level: Native
-        - language:
-          idiom: French
-          level: Professional
-        - language:
-          idiom: Spanish
-          level: Professional
         
     interests:
         - interest:
@@ -50,97 +47,80 @@ sidebar:
 
 career-profile: 
     title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    text: 'Dynamic and motivated professional interested in backend software development and systems architecture. Skilled in designing and building complex systems focusing primarily on quality and high performance. Used to making critical decisions, engaging in team leadership with an ability to work independently in order to turn ideas and plans into best products possible.'
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: Master of Science in Railway Engineering
+      university: University of Zagreb
+      time: 2009 - 2011
+      details: "Thesis: Software modeled and simulated Railway Traffic Optimizations on the R201 (HR) line section. Railway systems engineering."
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: BSc in Traffic Engineering
+      university: University of Zagreb
+      time: 2005 - 2009
+      details: "General Traffic Engineering."
 
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    intro: ""
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: node-telnet-client
+        link: "https://github.com/mkozjak/node-telnet-client"
+        tagline: "A popular Node.js telnet client library based on RFC 854 Telnet Protocol Specification. Initially developed for Customer Premises Equipment management use cases, but later open-sourced. Actively developed. Used in production."
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: rpc-websockets
+        link: "https://github.com/mkozjak/rpc-websockets"
+        tagline: "A JSON-RPC 2.0 implementation using WebSockets for Node.js. Supports subscriptions, request/reply, notifications and multi-tenancy via namespaces. Actively developed. Used in production."
       - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        title: koa-cache-lite
+        link: "https://github.com/mkozjak/koa-cache-lite"
+        tagline: "A caching library for Koa.js web framework. Doesn’t depend on any 3rd party libraries. Supports In- Memory and Redis backends. Heavily used in UniqCast’s IPTV/OTT production deployments."
       - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        title: gorecord
+        link: "https://github.com/mkozjak/gorecord"
+        tagline: "A streaming media capturing tool that supports UDP and RTP streaming protocols. Used in UniqCast’s IPTV/OTT production deployments."
       - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-
-publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
-    publications:
-      - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-      - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: recurse
+        link: "https://github.com/mkozjak/recurse"
+        tagline: "A Proof-of-Concept co-authored micro web framework written in C++14 using Qt."
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
+          name: Node.js & Express.js/Koa.js
           level: 98%
         - skill:
-          name: Javascript & jQuery
-          level: 98%
+          name: Golang
+          level: 90%
         - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
+          name: Python
           level: 85%
         - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Ruby
+          level: 75%
+        - skill:
+          name: PostgreSQL
+          level: 80%
+        - skill:
+          name: GNU/Linux
+          level: 85%
+        - skill:
+          name: Nginx
+          level: 65%
+        - skill:
+          name: HTML5 & CSS
+          level: 30%
+        - skill:
+          name: Shell
+          level: 85%
 
 
 footer: 
