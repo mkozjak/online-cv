@@ -58,7 +58,19 @@ experiences:
         role: Senior Software Engineer
         company: UniqCast d.o.o.
         time: February 2015 - March 2018
-        details: 'Led core development team in a backend department. Designed and implemented core, content management, content delivery, catch-up and HLS/TS AES encryption systems. Implemented an in-house continuous delivery system based on Jenkins, GNU/Linux and MacOS, enabling the operations team to deploy application service releases to clients. Implemented a licensing system to support issuing, revocation and validation of customer licenses. Implemented an in-house Elastic stack multi-tenancy solution for Kibana/Elasticsearch and database fixtures support for initial deployment states.Ensured and improved services with RESTful API principles, WebSocket and NATS microservice communication protocols.'
+        details: '&bull; Led core development team in a backend department<br>&bull; Designed and implemented core, content management, content delivery, catch-up and HLS/TS AES encryption systems<br>&bull; Implemented an in-house continuous delivery system based on Jenkins, GNU/Linux and MacOS, enabling the operations team to deploy application service releases to clients<br>&bull; Implemented a licensing system to support issuing, revocation and validation of customer licenses<br>&bull; Implemented an in-house Elastic stack multi-tenancy solution for Kibana/Elasticsearch and database fixtures support for initial deployment states.Ensured and improved services with RESTful API principles, WebSocket and NATS microservice communication protocols.'
+
+      - experience:
+        role: IPTV Platform Systems and Software Engineer
+        company: Iskon Internet d.d.
+        time: January 2013 - February 2015
+        details: '&bull; Designed and developed a remote management system for Customer Premises Equipment (Set-Top Boxes), helping Customer Support department in troubleshooting and resolving customer inquiries<br>&bull; Integrated and quality-assured Vestel IP7350 and IP7630 OEM Set-Top Box models in order to satisfy ISP requirements and seamlessly integrate with BeeSmart IPTV platform<br>&bull; Ensured OTA Set-Top Box High-Availability environment<br>&bull; Improved in-house DHCP server according to STB integration requirements<br>&bull; Provided passive 24/7 on-call duty to ensure smooth system operation'
+
+      - experience:
+        role: Broadband Services Development Administrator
+        company: Iskon Internet d.d.
+        time: November 2011 - December 2012
+        details: '&bull; Provided technical support for on-site access network maintenance technicians.<br>&bull; Managed, configured and troubleshot Customer Premises Equipment, IPTV Set-Top Boxes and DSLAM deployments in both DSL and Fiber-Optic environments<br>&bull; Provided passive 24/7 on-call duty to ensure smooth system operation'
 
 studies: 
     - education:
