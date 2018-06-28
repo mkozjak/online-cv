@@ -51,11 +51,14 @@ career-profile:
 
 
 experiences:
-    - experience:
-      role: Senior Software Engineer
-      company: UniqCast d.o.o.
-      time: February 2015 - March 2018
-      details: 'Led core development team in a backend department. Designed and implemented core, content management, content delivery, catch-up and HLS/TS AES encryption systems. Implemented an in-house continuous delivery system based on Jenkins, GNU/Linux and MacOS, enabling the operations team to deploy application service releases to clients. Implemented a licensing system to support issuing, revocation and validation of customer licenses. Implemented an in-house Elastic stack multi-tenancy solution for Kibana/Elasticsearch and database fixtures support for initial deployment states.Ensured and improved services with RESTful API principles, WebSocket and NATS microservice communication protocols.'
+    title: Work Experience
+
+    experiences:
+      - experience:
+        role: Senior Software Engineer
+        company: UniqCast d.o.o.
+        time: February 2015 - March 2018
+        details: 'Led core development team in a backend department. Designed and implemented core, content management, content delivery, catch-up and HLS/TS AES encryption systems. Implemented an in-house continuous delivery system based on Jenkins, GNU/Linux and MacOS, enabling the operations team to deploy application service releases to clients. Implemented a licensing system to support issuing, revocation and validation of customer licenses. Implemented an in-house Elastic stack multi-tenancy solution for Kibana/Elasticsearch and database fixtures support for initial deployment states.Ensured and improved services with RESTful API principles, WebSocket and NATS microservice communication protocols.'
 
 studies: 
     - education:
