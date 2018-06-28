@@ -29,12 +29,6 @@ sidebar:
           idiom: Croatian
           level: Native
         
-    experiences:
-        - experience:
-          role: Senior Software Engineer
-          company: UniqCast d.o.o.
-          details: 'Led core development team in a backend department. Designed and implemented core, content management, content delivery, catch-up and HLS/TS AES encryption systems. Implemented an in-house continuous delivery system based on Jenkins, GNU/Linux and MacOS, enabling the operations team to deploy application service releases to clients. Implemented a licensing system to support issuing, revocation and validation of customer licenses. Implemented an in-house Elastic stack multi-tenancy solution for Kibana/Elasticsearch and database fixtures support for initial deployment states.Ensured and improved services with RESTful API principles, WebSocket and NATS microservice communication protocols.'
-
     interests:
         - interest:
           item: Software containerization and orchestration
@@ -55,6 +49,13 @@ career-profile:
     title: Career Profile
     text: 'Dynamic and motivated professional interested in backend software development and systems architecture. Skilled in designing and building complex systems focusing primarily on quality and high performance. Used to making critical decisions, engaging in team leadership with an ability to work independently in order to turn ideas and plans into best products possible.'
 
+
+experiences:
+    - experience:
+      role: Senior Software Engineer
+      company: UniqCast d.o.o.
+      time: February 2015 - March 2018
+      details: 'Led core development team in a backend department. Designed and implemented core, content management, content delivery, catch-up and HLS/TS AES encryption systems. Implemented an in-house continuous delivery system based on Jenkins, GNU/Linux and MacOS, enabling the operations team to deploy application service releases to clients. Implemented a licensing system to support issuing, revocation and validation of customer licenses. Implemented an in-house Elastic stack multi-tenancy solution for Kibana/Elasticsearch and database fixtures support for initial deployment states.Ensured and improved services with RESTful API principles, WebSocket and NATS microservice communication protocols.'
 
 studies: 
     - education:
