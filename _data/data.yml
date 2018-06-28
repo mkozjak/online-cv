@@ -6,7 +6,7 @@ sidebar:
     # Site Settings
     title: Mario Kozjak Resume
     url: 'https://mario.kozjak.io'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
     name: Mario Kozjak
@@ -31,13 +31,13 @@ sidebar:
         
     interests:
         - interest:
-          item: Climbing
+          item: Software containerization and orchestration
           link:
         - interest:
-          item: Snowboarding
+          item: Distributed, highly available system deployments
           link:
         - interest:
-          item: Cooking
+          item: Long-term startup bootstrapping and business development
           link:
 
         
