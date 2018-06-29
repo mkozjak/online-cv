@@ -55,6 +55,12 @@ experiences:
 
     experiences:
       - experience:
+        role: Managing Director
+        company: Elpheria d.o.o.
+        time: March 2017 - Present
+        details: '&bull; Internet of Things research and development<br>&bull; Software and Hardware design, architecture and implementation<br>&bull; Blockchain research'
+
+      - experience:
         role: Senior Software Engineer
         company: UniqCast d.o.o.
         time: February 2015 - March 2018
