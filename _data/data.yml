@@ -103,7 +103,7 @@ projects:
         tagline: "A popular Node.js telnet client library based on RFC 854 Telnet Protocol Specification. Initially developed for Customer Premises Equipment management use cases, but later open-sourced. Actively developed. Used in production."
       - project:
         title: rpc-websockets
-        link: "https://github.com/mkozjak/rpc-websockets"
+        link: "https://github.com/elpheria/rpc-websockets"
         tagline: "A JSON-RPC 2.0 implementation using WebSockets for Node.js. Supports subscriptions, request/reply, notifications and multi-tenancy via namespaces. Actively developed. Used in production."
       - project:
         title: koa-cache-lite
