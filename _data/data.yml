@@ -124,31 +124,22 @@ skills:
     skills:
         - skill:
           name: Node.js & Express.js/Koa.js
-          level: 98%
         - skill:
           name: Golang
-          level: 90%
         - skill:
           name: Python
-          level: 85%
         - skill:
           name: Ruby
-          level: 75%
         - skill:
           name: PostgreSQL
-          level: 80%
         - skill:
           name: GNU/Linux
-          level: 85%
         - skill:
           name: Nginx
-          level: 65%
         - skill:
           name: HTML5 & CSS
-          level: 30%
         - skill:
           name: Shell
-          level: 85%
 
 
 footer: 
