@@ -58,8 +58,14 @@ experiences:
         role: Managing Director
         company: Elpheria d.o.o.
         time: March 2017 - Present
-        details: '&bull; Internet of Things research and development<br>&bull; Software and Hardware design, architecture and implementation<br>&bull; Blockchain research'
+        details: 'Elpheria is a Smart/Connected systems integrator providing planning, development and management of cloud platforms to industrial and commercial operators who want to position their products to the cloud and gain competitive edge.<br><br>By leveraging Machine Learning data modelling, we aim to prevent data waste to produce revenue and valuable insights to both manufacturers and operators in order to optimise their workloads.<br><br>&bull; Internet of Things research and development<br>&bull; Software design, architecture and implementation<br>&bull; Cloud deployments, design and migrations<br>&bull; Kubernetes on-premises, baremetal and cloud consulting'
 
+      - experience:
+        role: Senior Software Engineer
+        company: Mokriya
+        time: August 2018 - Present
+        details: 'Providing Development services through applied DevOps processes for the new consumer-facing Keller Williams Realty system spanning from Google Cloud Platform integrations to backend development using performant Node.js procedures.<br><br>&bull; Cloud-based backend development<br>&bull; Continuous Integration and Delivery setup<br>&bull; Kubernetes management<br>&bull; Data-staging and Machine Learning implementation'
+        
       - experience:
         role: Senior Software Engineer
         company: UniqCast d.o.o.
