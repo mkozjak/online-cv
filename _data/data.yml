@@ -55,7 +55,7 @@ experiences:
 
     experiences:
       - experience:
-        role: Managing Director
+        role: Solutions Architect
         company: Elpheria d.o.o.
         time: March 2017 - Present
         details: 'Elpheria is a Smart/Connected systems integrator providing planning, development and management of cloud platforms to industrial and commercial operators who want to position their products to the cloud and gain competitive edge.<br><br>By leveraging Machine Learning data modelling, we aim to prevent data waste to produce revenue and valuable insights to both manufacturers and operators in order to optimise their workloads.<br><br>&bull; Internet of Things research and development<br>&bull; Software design, architecture and implementation<br>&bull; Cloud deployments, design and migrations<br>&bull; Kubernetes on-premises, baremetal and cloud consulting'
