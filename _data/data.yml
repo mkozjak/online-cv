@@ -55,10 +55,10 @@ experiences:
 
     experiences:
       - experience:
-        role: Solutions Architect
+        role: Founder
         company: Elpheria d.o.o.
         time: March 2017 - Present
-        details: 'Elpheria is a Smart/Connected systems integrator providing planning, development and management of cloud platforms to industrial and commercial operators who want to position their products to the cloud and gain competitive edge.<br><br>By leveraging Machine Learning data modelling, we aim to prevent data waste to produce revenue and valuable insights to both manufacturers and operators in order to optimise their workloads.<br><br>&bull; Internet of Things research and development<br>&bull; Software design, architecture and implementation<br>&bull; Cloud deployments, design and migrations<br>&bull; Kubernetes on-premises, baremetal and cloud consulting'
+        details: 'Elpheria is an IT systems integrator providing planning, development and management of cloud and on-prem platforms to industrial and commercial operators who want to gain competitive edge.<br><br>Key Deliverables:<br>&bull; IAM design and implementation<br>&bull; End-user access control implementation<br>&bull; Infrastructure-as-Code bootstrap<br>&bull; Business Logic Function-as-a-Service development<br>&bull; API Load Balancing and RESTful endpoints implementation<br>&bull; End-user database modeling<br>&bull; Data storage organization and management<br>&bull; CI/CD pipeline design and implementation<br><br>Tools and technologies:<br>Terraform, AWS IAM, Cognito User Pool, Cognito Identity Pool, Lambda, EC2, ECS, API Gateway, DynamoDB, VPC, Security Groups, Secrets Manager, S3, GitLab CI/CD, Go, Shell, Python, systemd'
 
       - experience:
         role: Senior Software Engineer
