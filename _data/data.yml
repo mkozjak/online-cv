@@ -56,7 +56,7 @@ experiences:
     experiences:
       - experience:
         role: Founder
-        company: Elpheria d.o.o.
+        company: Elpheria j.d.o.o.
         time: March 2017 - Present
         details: 'Elpheria is an IT systems integrator providing planning, development and management of cloud and on-prem platforms to industrial and commercial operators who want to gain competitive edge.<br><br>Key Deliverables:<br>&bull; IAM design and implementation<br>&bull; End-user access control implementation<br>&bull; Infrastructure-as-Code bootstrap<br>&bull; Business Logic Function-as-a-Service development<br>&bull; API Load Balancing and RESTful endpoints implementation<br>&bull; End-user database modeling<br>&bull; Data storage organization and management<br>&bull; CI/CD pipeline design and implementation<br><br>Tools and technologies:<br>Terraform, AWS IAM, Cognito User Pool, Cognito Identity Pool, Lambda, EC2, ECS, API Gateway, DynamoDB, VPC, Security Groups, Secrets Manager, S3, GitLab CI/CD, Go, Shell, Python, systemd'
 
@@ -64,25 +64,25 @@ experiences:
         role: Senior Software Engineer
         company: Mokriya
         time: August 2018 - Present
-        details: 'Providing Development services through applied DevOps processes for the new consumer-facing Keller Williams Realty system spanning from Google Cloud Platform integrations to backend development using performant Node.js procedures.<br><br>&bull; Cloud-based backend development<br>&bull; Continuous Integration and Delivery setup<br>&bull; Kubernetes management<br>&bull; Data-staging and Machine Learning implementation'
+        details: 'Provided Cloud services through applied DevOps practices for the new consumer-facing Keller Williams Realty system spanning from Google Cloud Platform integrations to backend development using performant Node.js procedures.<br><br>Key Deliverables:<br>&bull; Bootstrapping and implementation of a new Cloud infrastructure<br>&bull; CI/CD pipeline design and implementation<br>&bull;Application containerization and security implementation<br>&bull; Infrastructure monitoring implementation<br>&bull; Microservice application development<br><br>Tools and technologies:<br>Terraform, Travis CI, Google Kubernetes Engine, Google App Engine, Google Cloud Load Balancing, Google Cloud IAM, Nginx Ingress, Redis Memorystore, Atlas MongoDB, Elasticsearch, LightStep, Node.js, Go, Python, Shell'
         
       - experience:
         role: Senior Software Engineer
         company: UniqCast d.o.o.
         time: February 2015 - March 2018
-        details: '&bull; Led core development team in a backend department<br>&bull; Designed and implemented core, content management, content delivery, catch-up and HLS/TS AES encryption systems<br>&bull; Implemented an in-house continuous delivery system based on Jenkins, GNU/Linux and MacOS, enabling the operations team to deploy application service releases to clients<br>&bull; Implemented a licensing system to support issuing, revocation and validation of customer licenses<br>&bull; Implemented an in-house Elastic stack multi-tenancy solution for Kibana/Elasticsearch and database fixtures support for initial deployment states<br>&bull; Ensured and improved services with RESTful API principles, WebSocket and NATS microservice communication protocols'
+        details: 'Key Deliverables:<br>&bull; Led core development team in a backend department<br>&bull; Designed and implemented core, content management, content delivery, catch-up and HLS/TS AES encryption systems<br>&bull; Implemented an in-house continuous delivery system based on Jenkins, Linux and macOS, enabling the operations team to deploy application service releases to clients<br>&bull; Implemented a licensing system to support issuing, revocation and validation of customer licenses<br>&bull; Implemented an in-house Elastic stack multi-tenancy solution for Kibana/Elasticsearch and database fixtures support for initial deployment states<br>&bull; Designed and improved services with RESTful API principles, WebSocket and NATS microservice communication protocols<br><br>Tools and technologies:<br>Node.js, Go, Python, Ruby, C++, Qt, QML, Java, Shell, Jenkins, Fastlane, PostgreSQL, NATS, WebSocket, RPC, Linux'
 
       - experience:
         role: IPTV Platform Systems and Software Engineer
         company: Iskon Internet d.d.
         time: January 2013 - February 2015
-        details: '&bull; Designed and developed a remote management system for Customer Premises Equipment (Set-Top Boxes), helping Customer Support department in troubleshooting and resolving customer inquiries<br>&bull; Integrated and quality-assured Vestel IP7350 and IP7630 OEM Set-Top Box models in order to satisfy ISP requirements and seamlessly integrate with BeeSmart IPTV platform<br>&bull; Ensured OTA Set-Top Box High-Availability environment<br>&bull; Improved in-house DHCP server according to STB integration requirements<br>&bull; Provided passive 24/7 on-call duty to ensure smooth system operation'
+        details: 'Key Deliverables:<br>&bull; Designed and developed a remote management system for Customer Premises Equipment (Set-Top Boxes), helping Customer Support department in troubleshooting and resolving customer inquiries<br>&bull; Integrated and quality-assured Vestel IP7350 and IP7630 OEM Set-Top Box models in order to satisfy ISP requirements and seamlessly integrate with BeeSmart IPTV platform<br>&bull; Ensured OTA Set-Top Box High-Availability environment<br>&bull; Improved in-house DHCP server according to STB integration requirements<br>&bull; Provided passive 24/7 on-call duty to ensure smooth system operation<br><br>Tools and technologies:<br>Linux, Node.js, Perl, Shell, Pacemaker, Nginx, Apache'
 
       - experience:
         role: Broadband Services Development Administrator
         company: Iskon Internet d.d.
         time: November 2011 - December 2012
-        details: '&bull; Provided technical support for on-site access network maintenance technicians.<br>&bull; Managed, configured and troubleshot Customer Premises Equipment, IPTV Set-Top Boxes and DSLAM deployments in both DSL and Fiber-Optic environments<br>&bull; Provided passive 24/7 on-call duty to ensure smooth system operation'
+        details: 'Key Deliverables:<br>&bull; Provided technical support for on-site access network maintenance technicians.<br>&bull; Managed, configured and troubleshot Customer Premises Equipment, IPTV Set-Top Boxes and DSLAM deployments in both DSL and Fiber-Optic environments<br>&bull; Provided passive 24/7 on-call duty to ensure smooth system operation<br><br>Tools and technologies:<br>Linux, Perl, Shell, Nginx, Apache, Bind9'
 
 studies: 
     - education:
