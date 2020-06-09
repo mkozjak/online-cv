@@ -125,28 +125,5 @@ projects:
         tagline: "A Proof-of-Concept co-authored micro web framework written in C++14 using Qt."
 
 
-skills:
-    title: Skills &amp; Proficiency
-    skills:
-        - skill:
-          name: Node.js & Express.js/Koa.js
-        - skill:
-          name: Golang
-        - skill:
-          name: Python
-        - skill:
-          name: Ruby
-        - skill:
-          name: PostgreSQL
-        - skill:
-          name: GNU/Linux
-        - skill:
-          name: Nginx
-        - skill:
-          name: HTML5 & CSS
-        - skill:
-          name: Shell
-
-
 footer: 
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
