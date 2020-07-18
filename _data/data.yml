@@ -99,7 +99,7 @@ studies:
 
 
 projects:
-    title: Projects
+    title: Open-Source Projects
     intro: ""
     
     projects:
@@ -124,6 +124,22 @@ projects:
         link: "https://github.com/mkozjak/recurse"
         tagline: "A Proof-of-Concept co-authored micro web framework written in C++14 using Qt."
 
+certificates:
+    title: Certificates
+
+    certificates:
+      - certificate:
+        title: AWS Certified Solutions Architect – Associate
+        link: "https://www.youracclaim.com/badges/8fd2b9e7-87c8-4e94-9db3-e0338cbd027b"
+        tagline: "Amazon Web Services, Candidate ID: AWS01594124, July 2020"
+      - certificate:
+        title: Certified Widevine Integration Partner
+        link: "https://www.widevine.com"
+        tagline: "Widevine Technologies, June 2014"
+      - certificate:
+        title: BeeSmart BS-TR-1 - Deployment and Administration
+        link: "https://www.beenius.tv"
+        tagline: "Beenius, December 2012"
 
 footer: 
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
