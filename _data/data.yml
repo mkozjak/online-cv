@@ -61,6 +61,12 @@ experiences:
         details: 'Elpheria is an IT systems integrator providing planning, development and management of cloud and on-prem platforms to industrial and commercial operators who want to gain competitive edge.<br><br>Key Deliverables:<br>&bull; IAM design and implementation<br>&bull; End-user access control implementation<br>&bull; End-user UI implementation<br>&bull; Infrastructure-as-Code bootstrap<br>&bull; Business Logic Function-as-a-Service development<br>&bull; API Load Balancing and RESTful endpoints implementation<br>&bull; End-user database modeling<br>&bull; Data storage organization and management<br>&bull; CI/CD pipeline design and implementation<br><br>Tools and technologies:<br>Terraform, AWS IAM, Cognito User Pool, Cognito Identity Pool, Lambda, EC2, ECS, API Gateway, DynamoDB, VPC, Security Groups, Secrets Manager, S3, HTML, CSS, JavaScript, StimulusJS, GitLab CI/CD, Go, Shell, Python, systemd'
 
       - experience:
+        role: Senior Software Engineer
+        company: X-Team
+        time: February 2021 - Present
+        details: 'Currently a part of the Artery team making sure Cloud deployments run smoothly leveraging DevOps methodologies. Engaged in the Artists industry I truly care about!<br><br>Key Deliverables:<br>&bull; Application containerization<br>&bull; CI/CD pipeline design and implementation'
+
+      - experience:
         role: DevOps Engineer
         company: Nagarro Digital Ventures
         time: August 2018 - February 2021
