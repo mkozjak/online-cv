@@ -70,7 +70,7 @@ experiences:
         role: Senior Software Engineer
         company: X-Team
         time: February 2021 - Present
-        details: 'Currently a part of the Artery team making sure Cloud deployments run smoothly leveraging DevOps methodologies. Engaged in the Artists industry I truly care about!<br><br>Key Deliverables:<br>&bull; Application containerization<br>&bull; CI/CD pipeline design and implementation'
+        details: 'Currently a part of the Artery team making sure Cloud deployments run smoothly leveraging DevOps methodologies. Engaged in the Artists industry I truly care about!<br><br>Key Deliverables:<br>&bull; Application containerization<br>&bull; CI/CD pipeline design and implementation<br><br>Tools and technologies:<br>Terraform, Docker, Ansible, GitHub CI, AWS EC2, AWS IAM, Nginx Ingress, Node.js, Shell'
 
       - experience:
         role: DevOps Engineer
