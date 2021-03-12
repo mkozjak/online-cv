@@ -5,7 +5,7 @@
 sidebar:
     # Site Settings
     title: Mario Kozjak Resume
-    url: 'https://mario.kozjak.io'
+    url: 'https://www.mariokozjak.com'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
@@ -16,7 +16,7 @@ sidebar:
     # Sidebar links
     email: kozjakm1@gmail.com
     # phone: 012 345 6789
-    website: mario.kozjak.io #do not add http://
+    website: www.mariokozjak.com #do not add http://
     linkedin: mario-kozjak-a9665b72
     github: mkozjak
     twitter: '@mariokozjak'
