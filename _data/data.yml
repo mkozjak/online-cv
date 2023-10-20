@@ -58,7 +58,7 @@ experiences:
         role: Senior Software Engineer
         company: X-Team
         time: February 2021 - Present
-        details: 'Participated as part of the Bramble team making sure Cloud deployments run smoothly leveraging DevOps methodologies. Engaged in the Artists industry I truly care about!<br><br>Key Deliverables:<br>&bull; Application containerization<br>&bull; CI/CD pipeline design and implementation<br>&bull; Horizontal scalability implementation<br>&bull; Application configuration management<br>&bull; Database backup and recovery solution<br>&bull; Application improvements in terms of multi-env and multi-db setup<br><br>Tools and technologies:<br>&bull; Terraform, Docker, Ansible, GitHub CI, AWS EC2, AWS IAM, Nginx Ingress, Node.js, Shell'
+        details: 'Participated as part of the Bramble team making sure Cloud deployments run smoothly leveraging DevOps methodologies. Engaged in the Artists industry I truly care about!<br><br>Key Deliverables:<br>&bull; Application containerization<br>&bull; CI/CD pipeline design and implementation<br>&bull; Horizontal scalability implementation<br>&bull; Application configuration management<br>&bull; Database backup and recovery solution<br>&bull; Application improvements in terms of multi-env and multi-db setup<br><br>Tools and technologies:<br>&bull; Terraform, Docker, HashiCorp Packer, Ansible, GitHub CI, AWS EC2, AWS IAM, Nginx Ingress, Node.js, Shell'
 
       - experience:
         role: Founder
