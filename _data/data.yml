@@ -55,6 +55,12 @@ experiences:
 
     experiences:
       - experience:
+        role: Senior Software Engineer
+        company: X-Team
+        time: February 2021 - Present
+        details: 'Participated as part of the Bramble team making sure Cloud deployments run smoothly leveraging DevOps methodologies. Engaged in the Artists industry I truly care about!<br><br>Key Deliverables:<br>&bull; Application containerization<br>&bull; CI/CD pipeline design and implementation<br><br>Tools and technologies:<br>Terraform, Docker, Ansible, GitHub CI, AWS EC2, AWS IAM, Nginx Ingress, Node.js, Shell'
+
+      - experience:
         role: Founder
         company: Elpheria j.d.o.o.
         time: March 2017 - Present
@@ -67,10 +73,10 @@ experiences:
         details: 'Have built an entire platform from the ground up and beyond the MVP stage including backend and frontend programming, design and architecture in order to provide IoT services for initial customers, available at www.edgebind.io.<br><br>Key Deliverables:<br>&bull; IAM design and implementation<br>&bull; End-user access control implementation<br>&bull; End-user UI implementation<br>&bull; Infrastructure-as-Code bootstrap<br>&bull; Business Logic Function-as-a-Service development<br>&bull; API Load Balancing and RESTful endpoints implementation<br>&bull; End-user database modeling<br>&bull; Data storage organization and management<br>&bull; CI/CD pipeline design and implementation<br><br>Tools and technologies:<br>Terraform, AWS IAM, Cognito User Pool, Cognito Identity Pool, Lambda, EC2, ECS, API Gateway, DynamoDB, VPC, Security Groups, Secrets Manager, S3, HTML, CSS, JavaScript, StimulusJS, GitLab CI/CD, Go, Shell, Python, systemd'
 
       - experience:
-        role: Senior Software Engineer
-        company: X-Team
-        time: February 2021 - Present
-        details: 'Currently a part of the Bramble team making sure Cloud deployments run smoothly leveraging DevOps methodologies. Engaged in the Artists industry I truly care about!<br><br>Key Deliverables:<br>&bull; Application containerization<br>&bull; CI/CD pipeline design and implementation<br><br>Tools and technologies:<br>Terraform, Docker, Ansible, GitHub CI, AWS EC2, AWS IAM, Nginx Ingress, Node.js, Shell'
+        role: Lead DevOps Engineer
+        company: More Than A Fan
+        time: February 2021 - October 2023
+        details: 'A more human way to gather online.'
 
       - experience:
         role: DevOps Engineer
