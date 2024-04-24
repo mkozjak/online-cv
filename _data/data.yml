@@ -68,13 +68,13 @@ experiences:
 
       - experience:
         role: Lead DevOps Engineer
-        company: More Than A Fan
+        company: More Than A Fan, Inc.
         time: February 2021 - October 2023
         details: 'Participated as part of the Bramble team making sure Cloud deployments run smoothly leveraging DevOps methodologies. Engaged in the Artists industry I truly care about!<br><br>Key Deliverables:<br>&bull; Application containerization<br>&bull; CI/CD pipeline design and implementation<br>&bull; Horizontal scalability implementation<br>&bull; Application configuration management<br>&bull; Database backup and recovery solution<br>&bull; Application improvements in terms of multi-env and multi-db setup<br><br>Tools and technologies:<br>&bull; Terraform, Docker, HashiCorp Packer, Ansible, GitHub CI, AWS EC2, AWS IAM, Nginx Ingress, Node.js, Shell'
 
       - experience:
         role: DevOps Engineer
-        company: Nagarro Digital Ventures
+        company: Keller Williams Realty, Inc.
         time: August 2018 - February 2021
         details: 'Provided Cloud services through applied DevOps practices for the new consumer-facing Keller Williams Realty system spanning from Google Cloud Platform integrations to backend development using performant Node.js procedures.<br><br>Key Deliverables:<br>&bull; Bootstrapping and implementation of a new Cloud infrastructure<br>&bull; CI/CD pipeline design and implementation<br>&bull;Application containerization and security implementation<br>&bull; Infrastructure monitoring implementation<br>&bull; Microservice application development<br><br>Tools and technologies:<br>Terraform, Travis CI, Google Kubernetes Engine, Google App Engine, Google Cloud Load Balancing, Google Cloud IAM, Nginx Ingress, Redis Memorystore, Atlas MongoDB, Elasticsearch, LightStep, Node.js, Go, Python, Shell'
 
